@@ -1,0 +1,225 @@
+[
+    {
+        "Keyword Overview": [
+            {
+                "High CPC": "$0.45",
+                "Keyword": "python",
+                "Keyword Difficulty": 1,
+                "Low CPC": "$0.10",
+                "Search Volume": 1000000,
+                "Trend": [
+                    {
+                        "month": "SEPTEMBER",
+                        "searches": 1000000,
+                        "year": 2023
+                    },
+                    {
+                        "month": "OCTOBER",
+                        "searches": 1000000,
+                        "year": 2023
+                    },
+                    {
+                        "month": "NOVEMBER",
+                        "searches": 823000,
+                        "year": 2023
+                    },
+                    {
+                        "month": "DECEMBER",
+                        "searches": 823000,
+                        "year": 2023
+                    },
+                    {
+                        "month": "JANUARY",
+                        "searches": 1000000,
+                        "year": 2024
+                    },
+                    {
+                        "month": "FEBRUARY",
+                        "searches": 1000000,
+                        "year": 2024
+                    },
+                    {
+                        "month": "MARCH",
+                        "searches": 1000000,
+                        "year": 2024
+                    },
+                    {
+                        "month": "APRIL",
+                        "searches": 823000,
+                        "year": 2024
+                    },
+                    {
+                        "month": "MAY",
+                        "searches": 1000000,
+                        "year": 2024
+                    },
+                    {
+                        "month": "JUNE",
+                        "searches": 1000000,
+                        "year": 2024
+                    },
+                    {
+                        "month": "JULY",
+                        "searches": 1220000,
+                        "year": 2024
+                    },
+                    {
+                        "month": "AUGUST",
+                        "searches": 1000000,
+                        "year": 2024
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Google Trends Data": {
+            "Interest Google Trends Data": [
+                {
+                    "interest": 19,
+                    "region": "Andaman and Nicobar Islands"
+                },
+                {
+                    "interest": 91,
+                    "region": "Andhra Pradesh"
+                },
+                {
+                    "interest": 7,
+                    "region": "Arunachal Pradesh"
+                },
+                {
+                    "interest": 12,
+                    "region": "Assam"
+                },
+                {
+                    "interest": 13,
+                    "region": "Bihar"
+                },
+                {
+                    "interest": 29,
+                    "region": "Chandigarh"
+                },
+                {
+                    "interest": 19,
+                    "region": "Chhattisgarh"
+                },
+                {
+                    "interest": 20,
+                    "region": "Dadra and Nagar Haveli"
+                },
+                {
+                    "interest": 20,
+                    "region": "Daman and Diu"
+                },
+                {
+                    "interest": 39,
+                    "region": "Delhi"
+                },
+                {
+                    "interest": 24,
+                    "region": "Goa"
+                },
+                {
+                    "interest": 32,
+                    "region": "Gujarat"
+                },
+                {
+                    "interest": 33,
+                    "region": "Haryana"
+                },
+                {
+                    "interest": 22,
+                    "region": "Himachal Pradesh"
+                },
+                {
+                    "interest": 14,
+                    "region": "Jammu and Kashmir"
+                },
+                {
+                    "interest": 27,
+                    "region": "Jharkhand"
+                },
+                {
+                    "interest": 100,
+                    "region": "Karnataka"
+                },
+                {
+                    "interest": 40,
+                    "region": "Kerala"
+                },
+                {
+                    "interest": 0,
+                    "region": "Lakshadweep"
+                },
+                {
+                    "interest": 23,
+                    "region": "Madhya Pradesh"
+                },
+                {
+                    "interest": 52,
+                    "region": "Maharashtra"
+                },
+                {
+                    "interest": 9,
+                    "region": "Manipur"
+                },
+                {
+                    "interest": 11,
+                    "region": "Meghalaya"
+                },
+                {
+                    "interest": 6,
+                    "region": "Mizoram"
+                },
+                {
+                    "interest": 8,
+                    "region": "Nagaland"
+                },
+                {
+                    "interest": 24,
+                    "region": "Odisha"
+                },
+                {
+                    "interest": 67,
+                    "region": "Puducherry"
+                },
+                {
+                    "interest": 28,
+                    "region": "Punjab"
+                },
+                {
+                    "interest": 18,
+                    "region": "Rajasthan"
+                },
+                {
+                    "interest": 17,
+                    "region": "Sikkim"
+                },
+                {
+                    "interest": 82,
+                    "region": "Tamil Nadu"
+                },
+                {
+                    "interest": 76,
+                    "region": "Telangana"
+                },
+                {
+                    "interest": 15,
+                    "region": "Tripura"
+                },
+                {
+                    "interest": 28,
+                    "region": "Uttar Pradesh"
+                },
+                {
+                    "interest": 35,
+                    "region": "Uttarakhand"
+                },
+                {
+                    "interest": 25,
+                    "region": "West Bengal"
+                }
+            ]
+        }
+    }
+]

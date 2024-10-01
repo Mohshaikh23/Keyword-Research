@@ -1,0 +1,508 @@
+text,volume,competition_level,competition_index,low_bid,high_bid,trend
+python,450000,LOW,5,2.14,29.48,0.74
+learn python,33100,MEDIUM,52,1.82,5.85,0.74
+python programming,40500,LOW,29,1.34,6.02,3.78
+python bootcamp,2900,MEDIUM,64,3.86,12.05,0.33
+python online,27100,LOW,6,1.4,4.25,-2.56
+python coding,27100,LOW,16,1.605,7.78,1.12
+python for beginners,60500,MEDIUM,48,1.46,5.04,2.95
+python download,60500,LOW,1,1.02,3.61,1.56
+python tutor,33100,LOW,15,1.35,4.88,-2.57
+codecademy python,2400,LOW,33,1.61,5.93,-1.07
+python developer,3600,LOW,32,4.55,50.0,4.23
+python ide,18100,LOW,4,1.9,4.05,-2.13
+learn python online,1600,MEDIUM,56,2.2,6.64,0.27
+python programming for beginners,60500,MEDIUM,48,1.46,5.04,2.95
+python for data science,3600,MEDIUM,47,2.45,9.27,-2.69
+python for data analysis,5400,MEDIUM,47,1.98,6.95,2.89
+coursera python,1600,MEDIUM,43,1.62,5.32,16.88
+best way to learn python,2900,MEDIUM,50,2.12,6.41,-0.49
+python machine learning,5400,LOW,30,2.089999,6.63,0.38
+python basics,6600,LOW,18,1.11,3.71,-0.11
+learn python programming,4400,MEDIUM,53,2.29,8.43,0.77
+python for everybody,1900,LOW,26,1.61,5.67,-2.69
+kaggle com learn python,20,MEDIUM,36,2.39,6.23,39.29
+udemy python,1300,LOW,23,0.56,3.89,-1.08
+anaconda python,18100,LOW,1,1.52,3.43,-0.38
+pycharm,90500,LOW,1,0.1,0.129999,1.52
+python language,6600,LOW,8,1.41,10.09,2.54
+freecodecamp python,2900,LOW,26,1.5,6.42,-2.91
+pyspark,18100,LOW,1,0.94,5.9,2.69
+datacamp python,480,LOW,27,1.6,6.28,1.35
+python for dummies,1900,HIGH,100,0.93,3.6,0.5
+best python ide,4400,LOW,5,2.14,4.93,-2.95
+python web development,1900,LOW,15,1.65,7.3,-1.44
+python ai,2400,MEDIUM,35,2.43,9.42,-1.57
+selenium python,6600,LOW,1,1.45,7.39,1.1
+in python,27100,LOW,5,0.38,1.49,-2.79
+python programming language,4400,LOW,10,1.36,9.3,17.28
+learn python the hard way,1900,MEDIUM,44,0.8,4.74,0.5
+deep learning with python,1300,MEDIUM,36,1.0,7.3,-0.68
+kafka python,1000,LOW,3,1.43,6.95,-0.31
+tensorflow python,1300,LOW,5,1.288256,5.99,-3.19
+opencv,33100,LOW,2,1.66,3.81,49.31
+python for finance,1900,MEDIUM,37,1.46,5.31,0.54
+django python,6600,LOW,2,1.31,7.4,-0.14
+sololearn python,390,LOW,28,1.98,6.45,-2.59
+python software,2400,LOW,7,1.26,6.17,3.86
+scrapy,6600,LOW,4,1.860516,8.47,0.0
+hackerrank python,1000,LOW,6,1.86,5.41,-0.8
+python 101,2900,LOW,24,1.42,4.159999,5.54
+python 3,14800,LOW,1,1.18,4.12,-2.12
+mongodb python,720,LOW,4,5.16,12.49,-1.64
+idle python,2900,LOW,1,1.53,3.94,4.79
+data science from scratch,590,HIGH,71,0.61,10.066477,2.38
+beautifulsoup,14800,LOW,1,0.91,5.49947,0.37
+jupyter python,1300,LOW,5,1.6,4.29,1.9
+kaggle python,320,LOW,10,1.91,5.8,3.96
+replit python,2400,LOW,3,1.37,4.29,-6.36
+python programming online,390,LOW,29,1.47,5.2,0.17
+python online ide,3600,LOW,2,1.53,3.48,-2.14
+python web,880,LOW,4,1.48,3.11,-0.57
+python automation,2900,LOW,15,1.21,6.48,1.28
+automate the boring stuff with python,6600,LOW,9,0.36,3.4,-0.92
+pycharm download,14800,LOW,1,0.1,0.133333,-0.1
+python tester,3600,LOW,2,1.43,4.63,-0.97
+send email python,2900,LOW,7,2.24,13.61,-1.24
+anaconda download,14800,LOW,2,1.63,3.09,4.12
+aws python,880,LOW,6,1.56,7.23,-0.78
+leetcode python,2900,LOW,4,1.36,3.97,0.98
+scikit learn,18100,LOW,1,1.65,8.38,1.59
+pypdf2,3600,LOW,5,5.9,10.0,0.73
+fastapi,22200,LOW,0,0.88,7.07,2.44
+cs50 python,4400,LOW,5,2.01,8.12,-0.9
+advanced python,1300,LOW,20,1.43,4.97,1.26
+python if,3600,LOW,1,0.02,0.17,-4.37
+python playground,5400,LOW,1,1.95,3.04,1.12
+spyder python,4400,LOW,0,2.02,6.6,5.39
+python project,12100,LOW,10,1.12,3.03,-0.92
+idle python download,1900,LOW,1,1.57,4.24,1.32
+flask python,8100,LOW,1,1.72,7.4,-1.32
+google python,1900,LOW,2,1.87,5.09,12.76
+python download windows,5400,LOW,1,1.130569,3.89,0.77
+geeksforgeeks python,880,LOW,6,1.134008,4.08,-0.15
+30 days of python,590,LOW,16,1.14,5.36,49.91
+numpy,22200,LOW,0,0.53,2.92,-0.45
+elasticsearch python,590,LOW,1,0.0,0.0,-0.97
+python website,1900,LOW,4,1.4,4.28,4.65
+anaconda python download,2400,LOW,2,1.62,3.65,5.59
+python ide download,480,LOW,8,2.04,3.87,-0.96
+python email,590,LOW,4,1.86,8.73,1.17
+nlp python,390,LOW,6,1.74,4.41,-2.13
+fluent python,1300,MEDIUM,39,0.3,2.7,5.61
+pythontutor,1000,MEDIUM,43,4.030592,16.92,-18.85
+pandas python,9900,LOW,1,1.21,4.61,-0.25
+real python,2900,LOW,5,1.64,5.01,0.43
+matplotlib,27100,LOW,0,1.465034,5.47,-0.62
+python notebook,2400,LOW,3,2.39,7.72,0.33
+beautifulsoup python,1900,LOW,1,0.95,5.52775,-1.17
+mysql connector python,1300,LOW,1,1.67,6.17,3.07
+python mysql,1600,LOW,1,1.54,10.4,-1.17
+online python com,210,LOW,4,1.16,4.39,-0.31
+automate the boring stuff,1900,LOW,5,0.35,1.85,0.77
+python redis,1300,LOW,0,0.0,0.0,2.05
+python data,1000,LOW,3,1.14,3.08,-0.46
+tutorialspoint python,320,LOW,5,1.71,5.46,-7.78
+micropython,5400,LOW,1,0.08,1.18,2.43
+for python,880,LOW,1,0.6,2.0,-0.76
+python for mac,1900,LOW,1,0.98,5.22,1.0
+thonny python,880,LOW,1,0.363876,3.47,-3.18
+numpy python,2400,LOW,1,0.6,2.47,-3.57
+python for windows,4400,LOW,0,1.68,5.49,-1.29
+spark python,590,LOW,3,1.06,3.98,-1.28
+opencv python,4400,LOW,2,2.3,4.75,-1.29
+python for android,1000,LOW,4,0.755315,2.30554,-0.94
+find python,1900,LOW,0,0.0,0.0,-5.71
+kivy,2900,LOW,0,1.15,2.5,2.32
+scipy,9900,LOW,0,0.0,0.0,-1.29
+python excel,3600,LOW,3,1.09,4.09,-9.7
+scrapy python,880,LOW,3,2.259663,11.65,-1.14
+python 3 download,1900,LOW,0,1.030413,4.41,1.19
+jupyter notebook python,880,LOW,4,1.28,5.4,0.07
+airflow python,590,LOW,3,1.8,7.46,-2.2
+python algorithms,1300,LOW,7,0.98,4.76,-3.41
+jetbrains pycharm,1600,LOW,3,0.1,0.2,1.45
+python postgresql,1300,LOW,1,1.31,9.84,-1.08
+pygame,18100,LOW,0,0.58,2.32,2.79
+replit com python,30,LOW,21,1.42,4.995,-1.52
+codewars python,260,LOW,8,1.74,5.4,-1.8
+sklearn,12100,LOW,0,1.79,3.96,-0.24
+with open python,2400,LOW,0,0.0,0.0,-1.91
+python r,1900,LOW,3,1.37,6.52,-1.35
+fastapi python,1600,LOW,1,0.14,6.93,2.37
+web3 python,210,LOW,1,0.0,0.0,-1.39
+python with open,2400,LOW,0,0.0,0.0,-1.57
+matplotlib python,2400,LOW,2,1.96,7.52,-1.98
+idle python online,390,LOW,4,1.5,4.19,-2.54
+github python,1000,LOW,1,1.82,6.574793,0.78
+xlwings,1300,LOW,1,0.0,0.0,1.26
+pyqt,5400,LOW,0,0.346717,3.22,0.73
+python download mac,2400,LOW,0,1.7,4.92,1.65
+head first python,390,HIGH,76,0.259999,2.86,1.14
+visual studio python,1600,LOW,1,2.54,5.84,-0.77
+atom python,480,LOW,1,2.4,4.61,-1.9
+beautiful soup python,1600,LOW,1,0.69,5.076142,-0.11
+tkinter python,5400,LOW,1,0.17,2.69,0.38
+networkx,5400,LOW,4,6.603231,8.723874,1.48
+tkinter,14800,LOW,0,0.43,3.22,1.12
+circuitpython,3600,LOW,0,0.0,0.0,2.56
+textblob,880,LOW,3,3.274424,13.05,-0.28
+wing ide,390,LOW,6,0.55,1.69,-0.09
+python scheduler,880,LOW,2,3.27,12.7,-1.29
+confluent kafka python,720,LOW,2,1.29,6.99,4.24
+python 3.9 download,1000,LOW,0,0.0,0.0,-2.56
+anaconda jupyter notebook,480,LOW,2,1.52,6.5,2.04
+sqlite3 python,1300,LOW,1,0.51,5.16,1.42
+python fastapi,1600,LOW,0,0.0,0.0,0.93
+pycharm online,210,LOW,6,1.56,5.68,-3.06
+django rest,1000,LOW,1,2.29,20.0,-0.46
+java python,1300,LOW,3,1.57,7.96,409.74
+ipython notebook,590,LOW,2,3.17,10.09,1.7
+python curses,1300,LOW,1,1.44,3.84,1.26
+unity python,480,LOW,2,1.4,4.44,-2.62
+python jupyter notebook,720,LOW,4,1.34,5.56,-0.56
+pycharm professional,1600,LOW,1,0.1,0.14,0.79
+w3 python,1000,LOW,0,0.8,3.71,-0.77
+pyomo,1000,LOW,1,1.4,3.22,1.3
+spyder python download,720,LOW,0,0.0,0.0,1.3
+get python,1900,LOW,0,1.47,4.13,0.13
+python cookbook,480,HIGH,74,0.14,2.0,-0.91
+python software download,110,LOW,4,0.0,0.0,0.55
+python 3.10,4400,LOW,0,0.0,0.0,0.73
+python list,22200,LOW,0,0.61,3.34,-2.13
+python sleep,9900,LOW,1,0.02,0.06,-0.92
+kivy python,880,LOW,1,1.75,6.88,-1.5
+numba,2900,LOW,0,0.0,0.0,0.85
+vscode python,2400,LOW,1,1.62,4.72,-0.74
+python graphql,880,LOW,1,0.0,0.0,-0.94
+think python,880,MEDIUM,37,0.19,3.52,1.16
+raspberry pi python,1000,LOW,15,1.13,4.81,0.93
+graphql python,880,LOW,1,0.0,0.0,-0.94
+django postgresql,720,LOW,1,2.86,37.5,0.72
+python3 online,480,LOW,1,1.87,2.03,-1.3
+1 python,1300,LOW,0,0.0,0.0,-3.87
+python tutorialspoint,320,LOW,1,1.73,5.4,-2.23
+effective python,480,MEDIUM,47,0.27,0.37,0.79
+python anywhere,8100,LOW,0,0.0,0.0,1.13
+pyqt5,4400,LOW,0,0.0,0.0,-1.29
+python 3.9,2900,LOW,0,0.0,0.0,-0.81
+django project,1300,LOW,3,1.75,5.84,-1.7
+nltk,5400,LOW,0,0.0,0.0,-0.93
+sqlite python,1300,LOW,0,0.04,2.36,0.79
+pdfminer,1300,LOW,22,4.139999,9.89,-0.68
+plotly python,2400,LOW,1,2.51,9.8,-1.4
+repl python,480,LOW,1,0.0,0.0,-1.43
+pyautogui,5400,LOW,1,1.76,6.296173,0.73
+microbit python,260,LOW,0,0.0,0.0,7.0
+python replit,320,LOW,1,1.64,3.74,-4.68
+python 3.10 download,1300,LOW,0,0.0,0.0,4.38
+thonny download,1000,LOW,0,0.211111,0.933592,3.69
+xgboost python,9900,LOW,1,3.07,5.25,492.69
+python m,480,LOW,0,0.0,0.0,-1.32
+python linux,390,LOW,1,1.65,5.22,0.39
+pyscript,1900,LOW,1,0.93,5.21,-1.76
+python websockets,2900,LOW,0,0.0,0.0,0.65
+qt python,590,MEDIUM,36,0.11,0.46,0.36
+python 3.11,4400,LOW,0,1.06,3.83,-1.3
+anaconda software,1300,LOW,1,1.2,2.97,9.38
+web3 py,260,LOW,1,0.0,0.0,-0.15
+cvxpy,1600,LOW,0,0.0,0.0,2.39
+python 3.7,1600,LOW,0,1.62,5.07,-3.91
+python 3.8 download,720,LOW,0,0.0,0.0,-2.56
+dask python,1600,LOW,1,2.57,13.37,0.73
+python 3.7 download,720,LOW,0,0.0,0.0,-3.52
+openpyxl,6600,LOW,0,1.77,10.35,1.13
+python pycharm,480,LOW,3,0.95,4.25,1.66
+seaborn python,4400,LOW,2,2.0,8.7,-0.9
+python opencv,1600,LOW,1,1.8,4.76,-1.17
+jetbrains com pycharm,390,LOW,9,0.1,3.0,-2.64
+python download for windows 10 64 bit,90,LOW,0,0.0,0.0,-7.85
+anaconda python 3.7 download,40,LOW,0,0.0,0.0,-3.01
+arduino python,1000,LOW,3,1.15,3.02,-1.5
+python 3.8,2400,LOW,0,0.0,0.0,-0.57
+googletrans python,170,LOW,0,0.0,0.0,-3.21
+beautifulsoup4,1300,LOW,1,1.46,7.354064,3.36
+pep8,2400,LOW,0,0.0,0.0,0.25
+pyttsx3,880,LOW,2,2.77,5.35,2.17
+nltk python,1900,LOW,1,1.67,5.63,-1.96
+blender python,1300,LOW,2,1.43,3.69,-0.68
+pythonanywhere,8100,LOW,0,0.0,0.0,1.13
+sklearn python,1900,LOW,2,1.37,5.46,-2.07
+pyqt6,1600,LOW,0,0.0,0.0,4.46
+biopython,1600,LOW,1,0.0,0.0,1.2
+pycharm ide,720,LOW,1,0.1,3.24,2.5
+anaconda download for windows 10,110,LOW,2,0.0,0.0,6.21
+anaconda jupyter,590,LOW,1,1.54,6.06,-0.36
+python docker,1600,LOW,0,0.0,0.0,-1.04
+python if and,9900,LOW,4,0.02,0.07,-2.19
+python 3.6,1000,LOW,0,0.0,0.0,0.69
+boto3 python,1600,LOW,0,0.0,0.0,0.93
+pip download,1000,LOW,0,6.22,14.24,0.15
+hackerrank python solutions,90,LOW,1,0.0,0.0,2.34
+django redis,320,LOW,0,0.0,0.0,1.41
+django docker,320,LOW,0,0.0,0.0,-2.62
+python geeksforgeeks,390,LOW,1,2.089999,4.79,1.97
+download python 3.9,480,LOW,0,0.0,0.0,-1.7
+requests python,4400,LOW,0,0.63,1.53,0.73
+python pygame,720,LOW,2,1.43,3.32,0.73
+micro python,5400,LOW,1,0.08,1.18,2.43
+python docx,2400,LOW,0,0.0,0.0,2.89
+anaconda spyder,720,LOW,0,0.0,0.0,2.3
+pysimplegui,2900,LOW,0,0.0,0.0,-0.71
+python html,720,LOW,1,1.61,3.65,-1.28
+psycopg2,5400,LOW,0,0.0,0.0,1.12
+ipython,4400,LOW,0,0.64,8.8,-1.29
+cx_oracle,590,LOW,0,0.0,0.0,-0.89
+reportlab,880,LOW,2,2.848048,11.71,2.17
+sqlalchemy python,1000,LOW,1,0.0,0.0,2.65
+python 2.7,1600,LOW,0,0.0,0.0,-3.14
+scipy python,720,LOW,0,0.0,0.0,-4.26
+download python 3.10,590,LOW,0,0.0,0.0,1.83
+python setup py,1600,LOW,0,0.0,0.0,-2.87
+anaconda windows,720,LOW,1,0.0,0.0,-0.92
+anaconda mac,1600,LOW,1,0.86,2.48,0.41
+python vscode,590,LOW,0,0.0,0.0,1.42
+and python,720,LOW,0,0.0,0.0,-2.28
+python boto3,1600,LOW,0,0.0,0.0,0.93
+keras python,480,LOW,1,0.0,0.0,-2.64
+python w3,720,LOW,0,0.0,0.0,-0.63
+mypy,4400,LOW,0,0.0,0.0,1.59
+pyside6,1600,LOW,0,1.22,5.09,7.48
+openpyxl python,1300,LOW,0,0.83,1.95,-0.07
+conda python,1600,LOW,0,2.94,11.04,-0.65
+pyside,1300,LOW,1,0.0,0.0,4.14
+pyarmor,590,LOW,1,4.451718,36.13,1.09
+anaconda com download,170,LOW,5,1.37,3.72,17.16
+python 3.6 download,390,LOW,0,0.0,0.0,4.11
+python sleep 1 second,260,LOW,2,0.02,0.08,-1.35
+cpython,3600,LOW,0,0.0,0.0,-0.28
+graphviz python,720,LOW,2,2.83,8.27,-0.91
+anaconda linux,880,LOW,0,0.0,0.0,-1.14
+download python 3.8,320,LOW,0,0.0,0.0,-1.89
+python docs,2900,LOW,0,0.0,0.0,0.65
+jdoodle python,320,LOW,0,0.0,0.0,-4.12
+fibonacci python,390,LOW,0,0.0,0.0,-3.13
+pymodbus,480,LOW,0,0.0,0.0,1.88
+scikit,1900,LOW,0,0.76,2.980287,0.28
+pygame download,1000,LOW,2,0.526806,2.66,1.41
+eclipse python,720,LOW,0,0.0,0.0,-4.02
+spacy python,1300,LOW,1,1.13,4.67,-0.68
+fizzbuzz python,1000,LOW,0,0.0,0.0,-0.43
+thonny,8100,LOW,0,0.0,0.0,2.39
+get pip,720,LOW,0,0.0,0.0,0.73
+python 2.7 download,720,LOW,0,0.0,0.0,-2.54
+anaconda download for windows,720,LOW,2,2.36,3.94,5.62
+bs4 python,720,LOW,0,0.0,0.0,-1.64
+python coverage,1000,LOW,0,0.0,0.0,1.26
+cuda python,1300,LOW,0,0.0,0.0,14.81
+pip python,1600,LOW,0,0.0,0.0,-1.31
+pip tensorflow,260,LOW,0,0.0,0.0,1.31
+download anaconda for windows,720,LOW,2,2.36,3.94,5.62
+pypi python,320,LOW,1,0.0,0.0,0.71
+re python,6600,LOW,0,0.12,1.46,-2.95
+pep8 python,1000,LOW,0,0.0,0.0,-2.17
+django bootstrap,480,LOW,0,0.0,0.0,-4.64
+download python 3.7,720,LOW,0,0.0,0.0,-3.52
+get pip py,590,LOW,0,8.149999,15.32,1.21
+python 2,2400,LOW,0,0.0,0.0,2.15
+celery python,3600,LOW,0,0.0,0.0,2.39
+python ubuntu,210,LOW,0,0.0,0.0,-0.52
+& in python,390,LOW,0,0.0,0.0,-3.9
+* * in python,1900,LOW,0,0.0,0.0,-5.39
+* * python,450000,LOW,5,2.14,29.48,0.74
+* in python,590,LOW,0,0.0,0.0,-5.19
+* python,450000,LOW,5,2.14,29.48,0.74
+2f python,1000,LOW,0,0.0,0.0,-4.59
+all python,1000,LOW,0,0.0,0.0,0.32
+anaconda prompt,1000,LOW,0,0.0,0.0,-0.8
+anaconda ubuntu,390,LOW,0,0.0,0.0,-0.99
+base64 python,1900,LOW,0,0.0,0.0,1.27
+brew python,1000,LOW,0,0.0,0.0,0.63
+celery django,1000,LOW,1,27.0,55.2,0.45
+classmethod python,3600,LOW,0,1.55,6.18,-1.77
+conda env,1900,LOW,0,0.0,0.0,-0.68
+conda env list,1300,LOW,0,0.0,0.0,-0.05
+conda tensorflow,390,LOW,0,0.0,0.0,-3.94
+curl python,320,LOW,0,0.0,0.0,-0.24
+cv2 python,3600,LOW,0,0.0,0.0,0.85
+dir python,1000,LOW,0,0.0,0.0,-2.04
+discord py,3600,LOW,0,1.97646,2.587719,-1.34
+discord py docs,390,LOW,0,0.0,0.0,1.11
+django github,1000,LOW,0,0.0,0.0,0.15
+dlib python,260,LOW,0,0.0,0.0,12.22
+env python,320,LOW,0,0.0,0.0,2.88
+fastapi sqlalchemy,390,LOW,0,0.0,0.0,-0.88
+ffmpeg python,1300,LOW,0,0.0,0.0,0.79
+find in list python,1600,LOW,0,0.0,0.0,-2.75
+flake8,2400,LOW,0,0.0,0.0,1.32
+flask bootstrap,320,LOW,1,0.0,0.0,-0.88
+flask cors,1000,LOW,0,0.0,0.0,3.36
+flask github,720,LOW,0,0.0,0.0,-1.27
+flask restful,1000,LOW,0,0.0,0.0,-2.41
+flask socketio,720,LOW,0,0.0,0.0,1.39
+flask sqlalchemy,1900,LOW,0,0.0,0.0,-0.44
+fpdf python,480,LOW,1,2.353794,10.0,1.97
+gensim,1900,LOW,0,0.0,0.0,0.28
+gensim word2vec,480,LOW,0,0.0,0.0,-3.08
+geopy,1000,LOW,2,2.740324,8.7,1.89
+get in python,320,LOW,0,0.0,0.0,-2.35
+gitpython,880,LOW,0,0.0,0.0,0.07
+google colab for python,50,LOW,3,0.0,0.0,6.38
+grpc python,1300,LOW,0,0.0,0.0,1.42
+gspread,1300,LOW,2,0.0,0.0,4.76
+guido van rossum,5400,LOW,0,0.0,0.0,2.8
+gunicorn,5400,LOW,0,0.0,0.0,3.14
+gunicorn flask,480,LOW,0,0.0,0.0,0.78
+h5py,1600,LOW,0,0.0,0.0,1.59
+head python,590,LOW,0,0.0,0.0,-3.48
+intellij python,720,LOW,0,0.0,0.0,0.25
+ipynb to py,480,LOW,0,0.0,0.0,-1.46
+iron python,480,LOW,0,0.0,0.0,-0.91
+jax python,1600,LOW,1,4.02,5.1,-3.34
+keras in python,480,LOW,1,0.0,0.0,-2.64
+lightgbm python,260,LOW,0,0.0,0.0,-4.77
+list of lists python,22200,LOW,0,0.61,3.34,-2.13
+lxml,1300,LOW,0,0.0,0.0,2.05
+lxml python,1000,LOW,0,0.0,0.0,1.26
+marshmallow python,720,LOW,0,0.0,0.0,0.36
+matplotlib 3d,320,LOW,0,0.0,0.0,1.6
+mkdir python,2400,LOW,0,0.0,0.0,2.47
+mongoengine,320,LOW,0,0.0,0.0,-0.33
+n in python,2900,LOW,0,0.0,0.0,-4.0
+networkx python,1300,LOW,0,0.0,0.0,-2.39
+numba python,1000,LOW,0,0.0,0.0,-0.31
+numpy github,1300,LOW,0,0.0,0.0,1.02
+numpy to list,1000,LOW,0,0.0,0.0,-2.56
+pandas df,480,LOW,0,0.0,0.0,-0.91
+pandas excel,2400,LOW,0,0.0,0.0,-0.9
+pandas pypi,590,LOW,0,0.0,0.0,3.21
+pandas to excel,2400,LOW,0,0.0,0.0,-0.9
+pandas to list,880,LOW,0,0.0,0.0,-1.29
+pandas to numpy,720,LOW,0,0.0,0.0,-2.31
+paramiko python,1000,LOW,0,0.0,0.0,1.78
+pi in python,1600,LOW,0,0.0,0.0,0.31
+pil python,5400,LOW,0,0.0,0.0,-0.17
+pillow python,5400,LOW,0,0.0,0.0,-0.17
+pip list,1000,LOW,0,0.0,0.0,1.41
+pip matplotlib,590,LOW,0,0.0,0.0,1.11
+pip numpy,390,LOW,0,0.0,0.0,5.65
+pip opencv,320,LOW,0,0.0,0.0,1.11
+pip pandas,480,LOW,0,0.0,0.0,3.35
+pip requests,480,LOW,0,0.0,0.0,1.56
+pip windows,880,LOW,0,0.0,0.0,-1.29
+protobuf python,1300,LOW,0,0.0,0.0,1.42
+py2exe,1000,LOW,0,0.0,0.0,-0.94
+pycharm download for windows,260,LOW,2,0.0,0.0,-1.22
+pycharm linux,590,LOW,0,0.0,0.0,2.04
+pycharm mac,480,LOW,0,0.0,0.0,2.87
+pycuda,590,LOW,0,0.0,0.0,1.14
+pycurl,390,LOW,0,0.0,0.0,-0.88
+pydev,480,LOW,0,0.0,0.0,-2.94
+pydoc,1000,LOW,0,0.0,0.0,-0.31
+pydroid,320,LOW,1,0.0,0.0,1.07
+pyglet,720,LOW,0,0.0,0.0,0.73
+pygui,1000,LOW,1,0.0,0.0,81.55
+pyinstaller,6600,LOW,0,0.0,0.0,1.13
+pylint,3600,LOW,0,0.0,0.0,-1.34
+pymc3,880,LOW,0,0.0,0.0,-0.79
+pymysql,1600,LOW,1,4.2,25.81,-0.5
+pyo3,1000,LOW,0,0.0,0.0,4.26
+pyopengl,590,LOW,0,0.0,0.0,-1.33
+pypy,3600,LOW,0,0.0,0.0,-0.97
+pyqtgraph,880,LOW,1,2.5,4.42,2.17
+pyramid python,480,LOW,0,0.0,0.0,0.22
+pyscripter,590,LOW,0,0.0,0.0,-1.77
+pyscripter download,90,LOW,0,0.0,0.0,-1.16
+pysftp,480,LOW,0,0.0,0.0,0.27
+pyside2,720,LOW,0,0.0,0.0,-0.91
+pytest,14800,LOW,0,1.59,18.84,0.37
+python *,450000,LOW,5,2.14,29.48,0.74
+python * *,450000,LOW,5,2.14,29.48,0.74
+python 0,210,LOW,0,0.0,0.0,-2.11
+python 2d list,1300,LOW,0,0.0,0.0,-3.0
+python 3.12,4400,LOW,0,1.72,6.04,15.5
+python 3.8 10,320,LOW,0,0.0,0.0,-1.73
+python 4,1900,LOW,0,0.0,0.0,1.82
+python ast,1900,LOW,0,0.0,0.0,2.64
+python basename,720,LOW,0,0.0,0.0,-0.92
+python binance,170,LOW,0,0.0,0.0,2.08
+python clear list,1000,LOW,0,0.0,0.0,-2.56
+python clear screen,720,LOW,0,0.0,0.0,-2.27
+python cmd,480,LOW,0,0.0,0.0,-1.31
+python dateutil,1600,LOW,0,0.0,0.0,0.93
+python diff,720,LOW,0,0.0,0.0,-1.56
+python discord,1900,LOW,0,1.37,2.55,-0.67
+python env,5400,LOW,7,3.31,26.26,10.49
+python get request,480,LOW,0,0.0,0.0,-1.31
+python gitlab,1000,LOW,0,5.0,6.5,0.3
+python grpc,1300,LOW,0,0.0,0.0,1.42
+python i,590,LOW,0,0.0,0.0,-3.11
+python in,1300,LOW,0,0.0,0.0,-2.63
+python jinja2,1300,LOW,0,0.0,0.0,1.18
+python ldap,720,LOW,0,0.0,0.0,3.41
+python linter,1600,LOW,0,0.0,0.0,0.54
+python m pip,50,LOW,0,0.0,0.0,2.79
+python md5,880,LOW,0,0.0,0.0,-1.14
+python numba,1000,LOW,0,0.0,0.0,-0.31
+python opengl,590,LOW,0,0.0,0.0,-0.5
+python ping,590,LOW,0,0.0,0.0,0.26
+python protobuf,1300,LOW,0,0.0,0.0,1.42
+python pwd,720,LOW,0,0.0,0.0,-1.28
+python readline,4400,LOW,0,0.0,0.0,-0.79
+python request get,1900,LOW,0,0.0,0.0,-1.4
+python setuptools,1600,LOW,0,0.0,0.0,2.88
+python sha256,480,LOW,0,0.0,0.0,-0.2
+python ssh,720,LOW,0,0.0,0.0,-0.1
+python strftime,2400,LOW,0,0.0,0.0,-1.24
+python torch,1000,LOW,0,0.0,0.0,1.26
+python tornado,880,LOW,0,0.0,0.0,-1.29
+python unzip,880,LOW,0,0.0,0.0,-1.09
+python wait,2900,LOW,0,0.03,0.11,1.18
+python wait 5 seconds,720,LOW,2,0.02,0.07,-4.62
+python wget,880,LOW,0,0.0,0.0,-2.93
+python wheel,1600,LOW,0,0.0,0.0,-0.68
+python with,2900,LOW,0,0.0,0.0,-0.06
+python xml,1300,LOW,0,0.0,0.0,1.65
+python yaml,2900,LOW,0,0.0,0.0,1.18
+python3 8,320,LOW,0,0.0,0.0,0.71
+python3 m,50,LOW,0,0.0,0.0,-3.18
+python3 pip,880,LOW,0,0.0,0.0,-1.29
+pytrends,390,LOW,2,1.97,7.06,-0.49
+pywin32,1600,LOW,0,0.0,0.0,0.66
+pyyaml,2900,LOW,0,0.0,0.0,0.33
+qpython,390,LOW,1,0.0,0.0,0.71
+reddit python,1900,LOW,0,0.0,0.0,-0.94
+scapy,1900,LOW,0,0.0,0.0,1.56
+scapy python,480,LOW,0,0.0,0.0,2.04
+scipy in python,720,LOW,1,1.61,4.52,0.27
+seaborn in python,4400,LOW,2,2.0,8.7,-0.9
+setup py,590,LOW,0,0.0,0.0,-1.89
+setuptools,1300,LOW,0,0.0,0.0,4.43
+sk learn,18100,LOW,1,1.65,8.38,1.59
+skimage,1300,LOW,0,0.0,0.0,1.81
+sklearn in python,1900,LOW,2,1.37,5.46,-2.07
+sklearn xgboost,590,LOW,0,0.0,0.0,-0.26
+sphinx python,880,LOW,0,0.0,0.0,1.09
+spyder ide,1900,LOW,0,3.56,5.89,5.15
+sqlalchemy create_engine,880,LOW,1,0.0,0.0,0.66
+sympy,5400,LOW,0,0.0,0.0,45.68
+sympy python,880,LOW,0,0.0,0.0,-0.47
+tesseract python,480,LOW,0,0.0,0.0,1.26
+thonny ide,720,LOW,1,0.0,0.0,5.41
+tic tac toe python,1300,LOW,0,0.0,0.0,1.7
+tkinter widgets,480,LOW,0,0.0,0.0,1.45
+tox python,390,LOW,0,0.0,0.0,-0.5
+tweepy,1000,LOW,0,0.0,0.0,0.15
+vim python,480,LOW,0,0.0,0.0,-1.7
+vpython,1600,LOW,0,0.0,0.0,15.15
+vscode jupyter,390,LOW,0,0.0,0.0,-1.43
+win32com,480,LOW,0,0.0,0.0,3.7
+winpython,590,LOW,0,0.0,0.0,1.14
+word2vec python,480,LOW,0,0.0,0.0,-0.61
+wsgi,2400,LOW,0,0.0,0.0,0.5
+wtforms,390,LOW,0,0.0,0.0,-0.45
+wxpython,2400,LOW,0,0.0,0.0,38.65
+xarray,1600,LOW,0,0.0,0.0,0.39
+xgboost sklearn,590,LOW,1,0.0,0.0,1.27
+xlsxwriter,1300,LOW,0,0.0,0.0,3.36
+xlsxwriter python,1000,LOW,0,0.0,0.0,0.15
